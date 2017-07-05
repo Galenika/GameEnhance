@@ -1,3 +1,6 @@
 [submodule "gamerfood"]
 	path = gamerfood
 	url = https://github.com/A5-/Gamerfood_CSGO
+[submodule "CSGOSimple"]
+	path = CSGOSimple
+	url = https://github.com/MarkHC/CSGOSimple
