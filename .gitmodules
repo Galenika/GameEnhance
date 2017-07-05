@@ -7,3 +7,6 @@
 [submodule "DingoSquad"]
 	path = DingoSquad
 	url = https://github.com/McSwaggens/DingoSquad
+[submodule "csgo-hack"]
+	path = csgo-hack
+	url = https://github.com/DimitriFourny/csgo-hack
