@@ -10,3 +10,6 @@
 [submodule "csgo-hack"]
 	path = csgo-hack
 	url = https://github.com/DimitriFourny/csgo-hack
+[submodule "Karma-CS-GO-Hack"]
+	path = Karma-CS-GO-Hack
+	url = https://github.com/san1a/Karma-CS-GO-Hack
