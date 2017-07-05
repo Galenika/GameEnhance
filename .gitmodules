@@ -4,3 +4,6 @@
 [submodule "CSGOSimple"]
 	path = CSGOSimple
 	url = https://github.com/MarkHC/CSGOSimple
+[submodule "DingoSquad"]
+	path = DingoSquad
+	url = https://github.com/McSwaggens/DingoSquad
