@@ -16,3 +16,6 @@
 [submodule "csgoo"]
 	path = csgoo
 	url = https://github.com/LennyPenny/csgoo
+[submodule "AimTux"]
+	path = AimTux
+	url = https://github.com/AimTuxOfficial/AimTux
